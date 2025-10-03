@@ -1,4 +1,4 @@
-import.java.util.util.*;
+import.java.util.*;
 class ex1{
 public static void main(String args[]){
 Scanner g=new Scanner(System.in);
